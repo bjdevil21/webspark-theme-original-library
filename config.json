@@ -106,7 +106,7 @@
     "@screen-xs": "480px",
     "@screen-xs-min": "@screen-xs",
     "@screen-phone": "@screen-xs-min",
-    "@screen-sm": "930px",
+    "@screen-sm": "931px",
     "@screen-sm-min": "@screen-sm",
     "@screen-tablet": "@screen-sm-min",
     "@screen-md": "992px",
@@ -353,7 +353,7 @@
     "@component-offset-horizontal": "180px",
     "@container-tablet": "768px",
     "@container-sm": "@container-tablet",
-    "@container-desktop": "930px",
+    "@container-desktop": "931px",
     "@container-md": "@container-desktop",
     "@container-large-desktop": "((1140px + @grid-gutter-width))",
     "@container-lg": "@container-large-desktop"
